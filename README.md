@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musaviOne
-- 👀 I’m interested in Python, AWS and Angular
+- 👀 I’m interested in Typescript, Python, AWS and Angular
 - 🌱 I’m currently learning Terraform
 - 📫 Reach me at musavi.one@gmail.com
 
